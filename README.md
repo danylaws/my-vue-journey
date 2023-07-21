@@ -20,7 +20,7 @@ Now, let's build 🏗️⚒️🧱🔥
     The first project I will build is a simple to-do app. Here is a non-exhaustive list of specifications  :
     
     -  A todo has an id, a title, and a status (done or not)
-    -  A todo should have a category
+    -  A todo should also have a category
     -  I can create, edit, or delete a todo or a category
     -  I can toggle a todo for done to undone and vice versa. Each state should have its visual appearance;
     -  If I delete a category, the system should delete all the todos of this category
