@@ -1,3 +1,8 @@
+
+# Welcome to my vue projects
+
+A couple of days back, I decided to level up my frontend skills by learning Vue. 
+
 # todo-app
 
 ## Project setup
