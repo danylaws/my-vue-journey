@@ -1,7 +1,7 @@
 
-# Welcome to my vue projects
+# Welcome to my Vue projects
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" style="height: 170px; width:170px; align: center"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" style="height: 170px; width:170px; text-align: center"/>
 
 A couple of days back, I decided to level up my frontend skills by learning Vue. I wanted to add another tool to my toolkit 🧰
 I spent some days learning the basics. You can see the details about my daily learning on [Twitter](https://twitter.com/danylaws/status/1676179173625192449).
@@ -11,6 +11,8 @@ Now, it is the right moment to make more complicated projects, to put into pract
 Each project will have its dedicated branch. If you are a Vue newbie like me, feel free to learn with me! Just clone the desired branch and explore! Any suggestion or question is welcome!
 
 Now, let's build 🏗️⚒️🧱🔥
+
+---
 
 <details>
   <summary><b>PROJECT 1: Todo App</b></summary>
