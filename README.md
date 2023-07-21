@@ -1,24 +1,12 @@
 
 # Welcome to my vue projects
 
-A couple of days back, I decided to level up my frontend skills by learning Vue. 
+A couple of days back, I decided to level up my frontend skills by learning Vue. I decide to add another tool to my toolkit 🧰
+I spent some days learning the basics. You can see the details about my daily learning on [Twitter](https://twitter.com/danylaws/status/1676179173625192449).
 
-# todo-app
+Now, it is the right moment to make more complicated projects, to put into practice all I've learned so far. Here you'll find all the projects I will build along the way.
 
-## Project setup
-```
-npm install
-```
+Each project will have its dedicated branch. If you are a Vue newbie like me, feel free to learn with me! Just clone the desired branch and explore! Any suggestion or question is welcome!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Now, let's build 🏗️🔥⚒️
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
