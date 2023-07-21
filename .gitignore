@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+design
 /dist
 
 
@@ -21,3 +22,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+.vuerc
+.version
+.versions
+.changelog
+package-lock.json
