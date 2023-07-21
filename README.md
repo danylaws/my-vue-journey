@@ -11,8 +11,9 @@ Each project will have its dedicated branch. If you are a Vue newbie like me, fe
 Now, let's build 🏗️⚒️🧱🔥
 
 <details>
-  <summary><b>Project 1: Todo App</summary>
+  <summary><b>PROJECT 1: Todo App</summary>
     The first project I will build is a simple to-do app. Here are the specifications :
-    - A todo has an is, a title, and a done status
+    
+    -  A todo has an id, a title, and a status (done or not)
 </details>
 
