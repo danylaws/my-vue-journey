@@ -1,6 +1,8 @@
 
 # Welcome to my vue projects
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" style="height: 170px; width:170px; align: center"/>
+
 A couple of days back, I decided to level up my frontend skills by learning Vue. I wanted to add another tool to my toolkit 🧰
 I spent some days learning the basics. You can see the details about my daily learning on [Twitter](https://twitter.com/danylaws/status/1676179173625192449).
 
